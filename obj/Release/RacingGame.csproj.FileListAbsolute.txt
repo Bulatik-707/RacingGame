@@ -1,0 +1,10 @@
+C:\Users\ZEN-707\Desktop\Игра на C# с нуля\Games_2D_Car\RacingGame\bin\Release\RacingGame.exe.config
+C:\Users\ZEN-707\Desktop\Игра на C# с нуля\Games_2D_Car\RacingGame\bin\Release\RacingGame.exe
+C:\Users\ZEN-707\Desktop\Игра на C# с нуля\Games_2D_Car\RacingGame\bin\Release\RacingGame.pdb
+C:\Users\ZEN-707\Desktop\Игра на C# с нуля\Games_2D_Car\RacingGame\obj\Release\RacingGame.csproj.AssemblyReference.cache
+C:\Users\ZEN-707\Desktop\Игра на C# с нуля\Games_2D_Car\RacingGame\obj\Release\RacingGame.Properties.Resources.resources
+C:\Users\ZEN-707\Desktop\Игра на C# с нуля\Games_2D_Car\RacingGame\obj\Release\RacingGame.RacingGame.resources
+C:\Users\ZEN-707\Desktop\Игра на C# с нуля\Games_2D_Car\RacingGame\obj\Release\RacingGame.csproj.GenerateResource.cache
+C:\Users\ZEN-707\Desktop\Игра на C# с нуля\Games_2D_Car\RacingGame\obj\Release\RacingGame.csproj.CoreCompileInputs.cache
+C:\Users\ZEN-707\Desktop\Игра на C# с нуля\Games_2D_Car\RacingGame\obj\Release\RacingGame.exe
+C:\Users\ZEN-707\Desktop\Игра на C# с нуля\Games_2D_Car\RacingGame\obj\Release\RacingGame.pdb
